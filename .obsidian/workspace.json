@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "026eba1c8065d2d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e1e2512499778d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3908008c931236ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "read.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0999827bd6afe995",
+    "type": "split",
+    "children": [
+      {
+        "id": "68335fbc93d06f32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b445ef67f8acbbd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8213f9c2a86e4ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22c57e7d2b51b1db",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb025e78d7be1a39",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa0589de910d2cbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ff757651edee667",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "read.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99ffa6b7438b0120",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "read.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab471d2f8257bf9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38c1a9dbb9c8cc53",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "read.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3908008c931236ea",
+  "lastOpenFiles": [
+    "React learn.md",
+    "read.md",
+    "functionVsClass.png"
+  ]
+}
